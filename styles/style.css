@@ -1,0 +1,191 @@
+header{
+    background-color: #B7F0AD;
+    padding: 16px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    margin: 0px;
+}
+
+@font-face {
+    font-family: Kidspace;
+    src: url(../fonts/Kidspace-DEMO.otf);
+}
+
+.logoheader{
+    font-family: Kidspace;
+    font-size: 35px;
+    margin-right: auto;
+}
+
+.liens{
+    display: flex;
+    gap: 80px;
+    margin-right: 900px;
+    
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.lien{
+    color: black;
+}
+
+.partun{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 80px;
+}
+
+.gauche{
+    max-width: 415px;
+}
+
+.tobyun{
+    width: 450px;
+    border-radius: 4px;
+}
+
+.droite{
+    margin-right: 600px;
+}
+
+h1{
+    font-family: Arial;
+
+}
+
+p{
+    font-size: 20px;
+}
+
+.titre{
+    display:flex;
+    justify-content: center;
+    
+}
+
+.gauchede{
+    max-width: 600px;
+}
+
+.partde{
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    gap: 200px;
+
+}
+
+.droitede{
+    margin-right: 300px;
+}
+
+.gauchede{
+    max-width: 415px;
+    margin-left: 100px;
+}
+
+span{
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}
+
+.droitetr{
+    max-width: 415px;
+   
+}
+
+.parttr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    gap: 200px;
+
+}
+
+.lieux{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+
+.txtlieux{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.txt{
+    max-width: 440px;
+    
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.socials{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.credits{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+footer{
+    background-color: #B7F0AD;
+}
+
+.footerun{
+    display: flex;
+    padding: 20px;
+   
+}
+
+.logoheaderde{
+    font-family: Kidspace;
+    font-size: 35px;
+    
+    margin-left: auto;
+}
+
+hr{
+    color: gray;
+    background-color: gray;
+    margin: 10px ;
+}
+
+html{
+    font-family: Cabin;
+    background-color: #eafaef;
+    scroll-behavior: smooth;
+
+}
