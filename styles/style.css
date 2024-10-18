@@ -3,7 +3,7 @@ header{
     padding: 16px 32px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center
     font-family: Arial, Helvetica, sans-serif;
 
 }
@@ -25,8 +25,9 @@ body{
 
 .liens{
     display: flex;
-    gap: 80px;
-    margin-right: 900px;
+    gap: 100px;
+    justify-content: center;
+    margin-right: auto;
     
 
 }
